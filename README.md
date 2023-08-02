@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate IT student from South Afirca</h3>
 
-- 🔭 I’m currently working on **SQL databases and AI**
+- 🔭 I’m currently working on **SQL databases**
 
 - 🌱 I’m currently learning **AWS**
 
