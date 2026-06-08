@@ -1,24 +1,63 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A passionate IT student from South Afirca</h3>
+<h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **SQL databases**
+---
 
-- 🌱 I’m currently learning **AWS**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/IvanPotgieter01](https://github.com/IvanPotgieter01)
+- 🔭 Currently working on **an AI-based project powered by AWS infrastructure**
+- ☁️ Focused on **cloud engineering and DevOps practices**
+- 🎓 BSc IT
+- 🧠 Passionate about **databases, automation, and scalable systems**
+- 🌱 Continuously improving my skills in **AWS, CI/CD, and backend systems**
+- 📍 Based in South Africa
 
-- 📫 How to reach me **ivanpotgietergithub@gmail.com**
+---
 
-- 📄 Know about my experiences [https://ivanpotgieter01.github.io/resume/IvanResume.pdf](https://ivanpotgieter01.github.io/resume/IvanResume.pdf)
+### 🛠️ Tech Stack & Tools
 
-- 🌐 Visit my portfolio website **https://ivanpotgieter01.github.io**
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM, Lambda, etc.)
+- GitHub Actions (CI/CD pipelines)
+- Git & GitHub
+- Basic infrastructure thinking (scaling, deployment, automation)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ivanpotgieter" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ivanpotgieter" height="40" width="40" />
-</a>
-</p>
+**Databases**
+- SQL
+- Oracle Database
+- MySQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Programming Languages**
+- Python
+- Java
+- C / C++
+- C#
+
+**Web & Others**
+- HTML
+- .NET Framework
+
+---
+
+### 📜 Certifications
+
+- AWS Certified Solutions Architect – Associate
+
+---
+
+### 📂 Projects
+
+- 🧩 AI Project (AWS-backed architecture)
+- 📊 SQL/database-related projects
+- More projects available on my GitHub profile
+
+👉 https://github.com/IvanPotgieter01
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ivanpotgieter
+- 🌍 Portfolio: https://ivanpotgieter01.github.io
+- 📄 Resume: https://ivanpotgieter01.github.io/resume/IvanResume.pdf
+- ✉️ Email: ivanpotgietergithub@gmail.com
