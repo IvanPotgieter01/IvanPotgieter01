@@ -56,5 +56,4 @@
 
 - LinkedIn: https://linkedin.com/in/ivanpotgieter
 - Portfolio: https://ivanpotgieter01.github.io
-- Resume: https://ivanpotgieter01.github.io/resume/IvanResume.pdf
 - Email: ivanpotgietergithub@gmail.com
