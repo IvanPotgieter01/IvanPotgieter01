@@ -1,63 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">DevOps Engineer</h3>
+# Hi 👋, I'm Ivan
+
+### 💻 Software Engineer @ BMW IT Hub South Africa - Cloud, DevOps & Security
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **an AI-based project powered by AWS infrastructure**
-- ☁️ Focused on **cloud engineering and DevOps practices**
-- 🎓 BSc IT
-- 🧠 Passionate about **databases, automation, and scalable systems**
-- 🌱 Continuously improving my skills in **AWS, CI/CD, and backend systems**
-- 📍 Based in South Africa
+- Building and securing cloud platforms at the BMW IT Hub - currently a serverless, AI-powered knowledge platform on AWS.
+- Focused on Infrastructure as Code, CI/CD, and DevSecOps.
+- Multi-cloud background: ~2 years on Microsoft Azure (product BOM / PLM backbone), now on AWS.
+- AWS Certified Solutions Architect – Associate.
+- BSc IT (graduated with distinction), North-West University.
+- Based in Pretoria, South Africa.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM, Lambda, etc.)
-- GitHub Actions (CI/CD pipelines)
-- Git & GitHub
-- Basic infrastructure thinking (scaling, deployment, automation)
+**☁️ Cloud & Infrastructure**
+- AWS (Lambda, ECS Fargate, OpenSearch, API Gateway, ACM, WAF, S3, DynamoDB, EventBridge)
+- Microsoft Azure
+- Terraform (multi-account Infrastructure as Code)
+- Docker
 
-**Databases**
-- SQL
-- Oracle Database
-- MySQL
+**🔒 CI/CD & DevSecOps**
+- GitHub Actions (release engineering, governance, reusable workflows)
+- SonarQube, CodeQL, Checkov
+- Wiz (vulnerability management), GitHub Advanced Security
+- TLS/PKI & certificate lifecycle, WAF data protection
 
-**Programming Languages**
-- Python
-- Java
-- C / C++
-- C#
+**⌨️ Languages & Data**
+- Python, Bash, PowerShell
+- SQL, PostgreSQL, Oracle, OpenSearch
 
-**Web & Others**
-- HTML
-- .NET Framework
+---
+
+### 🚀 What I'm Working On
+
+- Hardening and modernising a serverless AWS platform (runtime upgrades, dependency & CVE remediation).
+- CI/CD governance and automated release engineering with GitHub Actions.
+- Cloud security: certificate lifecycle, WAF data protection, and post-quantum-ready cryptography.
 
 ---
 
 ### 📜 Certifications
 
 - AWS Certified Solutions Architect – Associate
-
----
-
-### 📂 Projects
-
-- 🧩 AI Project (AWS-backed architecture)
-- 📊 SQL/database-related projects
-- More projects available on my GitHub profile
-
-👉 https://github.com/IvanPotgieter01
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
+- CompTIA A+ ce
 
 ---
 
 ### 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/ivanpotgieter
-- 🌍 Portfolio: https://ivanpotgieter01.github.io
-- 📄 Resume: https://ivanpotgieter01.github.io/resume/IvanResume.pdf
-- ✉️ Email: ivanpotgietergithub@gmail.com
+- LinkedIn: https://linkedin.com/in/ivanpotgieter
+- Portfolio: https://ivanpotgieter01.github.io
+- Resume: https://ivanpotgieter01.github.io/resume/IvanResume.pdf
+- Email: ivanpotgietergithub@gmail.com
